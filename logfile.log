@@ -1,0 +1,54 @@
+2023-01-22 05:52:03,229 INFO  [TestSignIn] Create a new instance of Chrome driver 
+2023-01-22 05:52:03,354 INFO  [TestSignIn] Maximize window 
+2023-01-22 05:52:03,404 INFO  [TestSignIn] Email: nogora4938@usharer.com; Password: 123456 
+2023-01-22 05:52:04,663 INFO  [TestSignIn] Launch https://www.worldtimebuddy.com/ 
+2023-01-22 05:52:04,711 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:04,778 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:05,501 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:05,576 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:05,660 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:05,701 INFO  [TestSignIn] Login and password entered and submitted 
+2023-01-22 05:52:07,003 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:07,656 INFO  [TestSignIn] Logged out 
+2023-01-22 05:52:07,656 INFO  [TestSignIn] Test PASSED 
+2023-01-22 05:52:07,656 INFO  [TestSignIn] Trying to save the results of testing in TestData.xlsx file 
+2023-01-22 05:52:07,750 INFO  [TestSignIn] Result is saved in TestData.xlsx file 
+2023-01-22 05:52:07,754 INFO  [TestSignIn] Email: alex56@mail.com; Password: test123 
+2023-01-22 05:52:08,199 INFO  [TestSignIn] Launch https://www.worldtimebuddy.com/ 
+2023-01-22 05:52:08,231 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:08,287 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:08,598 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:08,653 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:08,725 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:08,761 INFO  [TestSignIn] Login and password entered and submitted 
+2023-01-22 05:52:09,973 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:10,622 INFO  [TestSignIn] Logged out 
+2023-01-22 05:52:10,623 INFO  [TestSignIn] Test PASSED 
+2023-01-22 05:52:10,623 INFO  [TestSignIn] Trying to save the results of testing in TestData.xlsx file 
+2023-01-22 05:52:10,643 INFO  [TestSignIn] Result is saved in TestData.xlsx file 
+2023-01-22 05:52:10,645 INFO  [TestSignIn] Email: alex57@mail.com; Password: test123 
+2023-01-22 05:52:11,039 INFO  [TestSignIn] Launch https://www.worldtimebuddy.com/ 
+2023-01-22 05:52:11,076 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:11,130 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:11,448 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:11,507 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:11,578 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:11,614 INFO  [TestSignIn] Login and password entered and submitted 
+2023-01-22 05:52:12,884 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:13,554 INFO  [TestSignIn] Logged out 
+2023-01-22 05:52:13,554 INFO  [TestSignIn] Test PASSED 
+2023-01-22 05:52:13,554 INFO  [TestSignIn] Trying to save the results of testing in TestData.xlsx file 
+2023-01-22 05:52:13,570 INFO  [TestSignIn] Result is saved in TestData.xlsx file 
+2023-01-22 05:52:13,572 INFO  [TestSignIn] Email: nogora4938@usharer.com; Password: 1234567 
+2023-01-22 05:52:13,971 INFO  [TestSignIn] Launch https://www.worldtimebuddy.com/ 
+2023-01-22 05:52:14,005 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:14,058 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:14,362 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:14,422 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:14,489 INFO  [LocatorUtils] WebElement found successfully 
+2023-01-22 05:52:14,524 INFO  [TestSignIn] Login and password entered and submitted 
+2023-01-22 05:52:25,122 INFO  [TestSignIn] Something went wrong while logging out 
+2023-01-22 05:52:25,122 INFO  [TestSignIn] Test FAILED 
+2023-01-22 05:52:25,122 INFO  [TestSignIn] Trying to save the results of testing in TestData.xlsx file 
+2023-01-22 05:52:25,132 INFO  [TestSignIn] Result is saved in TestData.xlsx file 
+2023-01-22 05:52:25,256 INFO  [TestSignIn] Browser closed 
